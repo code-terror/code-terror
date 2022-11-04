@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 What I use:
 android bash docker git nodejs html5 java linux photoshop mongodb python redis golang
 
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-terror)](https://github.com/code-terror/github-readme-stats)
