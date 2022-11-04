@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Just getting started..
 -->
 
-<!--
+
 What I use:
 android bash docker git nodejs html5 java linux photoshop mongodb python redis golang
--->
+
