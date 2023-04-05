@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Fuzzing, Cloud Computing, Security, Backend Developement
-- 🌱 I’m currently learning Network Security
+- 🌱 I’m currently learning Cloud Computing and Java Spring Framework
 - 📫 How to reach me: yashwanthmaturi@gmail.com
 - 😄 Pronouns: He/Him
 
